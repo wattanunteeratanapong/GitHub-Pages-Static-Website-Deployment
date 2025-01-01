@@ -1,2 +1,3 @@
 # GitHub Pages Static Website Deployment
-Testing static website deployment using GitHub Pages
+
+https://wattanunteeratanapong.github.io/GitHub-Pages-Static-Website-Deployment/
